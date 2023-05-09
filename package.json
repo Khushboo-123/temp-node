@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "superheroes": "^3.0.0",
+    "systeminformation": "^5.17.12"
+  },
+  "name": "demonodesjs",
+  "version": "1.0.0",
+  "main": "4-names.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
